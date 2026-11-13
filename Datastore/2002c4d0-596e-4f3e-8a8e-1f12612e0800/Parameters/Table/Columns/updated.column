@@ -1,0 +1,18 @@
+{
+  "key": "updated",
+  "after": "created",
+  "column": {
+    "name": "updated",
+    "label": "Updated",
+    "type": "datetime",
+    "isPrimaryKey": false,
+    "metaData": {
+      "autoGenerate": true,
+      "autoUpdate": true
+    },
+    "constraints": {
+      "isUnique": false,
+      "isNotNull": false
+    }
+  }
+}

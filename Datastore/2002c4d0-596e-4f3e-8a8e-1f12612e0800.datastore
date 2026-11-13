@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "id": "2002c4d0-596e-4f3e-8a8e-1f12612e0800",
+    "platformVersion": "10.0.0",
+    "schemaVersion": "2.0.0"
+  },
+  "content": {
+    "uuid": "2002c4d0-596e-4f3e-8a8e-1f12612e0800",
+    "description": "my data",
+    "datastoreType": "Internal",
+    "workspaceId": "8f0e805e-83af-4e52-b463-fbc17ff18bed",
+    "resourceId": "2002c4d0-596e-4f3e-8a8e-1f12612e0800",
+    "name": "Data"
+  }
+}

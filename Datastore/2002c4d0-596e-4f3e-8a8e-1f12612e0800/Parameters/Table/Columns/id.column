@@ -1,0 +1,13 @@
+{
+  "key": "id",
+  "column": {
+    "name": "id",
+    "label": "id",
+    "type": "uuid",
+    "isPrimaryKey": true,
+    "constraints": {
+      "isUnique": false,
+      "isNotNull": true
+    }
+  }
+}

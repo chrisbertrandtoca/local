@@ -1,0 +1,17 @@
+{
+  "key": "created",
+  "after": "id",
+  "column": {
+    "name": "created",
+    "label": "Created",
+    "type": "datetime",
+    "isPrimaryKey": false,
+    "metaData": {
+      "autoGenerate": true
+    },
+    "constraints": {
+      "isUnique": false,
+      "isNotNull": false
+    }
+  }
+}
