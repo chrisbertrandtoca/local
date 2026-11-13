@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "id": "c803d881-c64a-4b6a-948f-b3b8620a3df9",
+    "platformVersion": "10.0.0",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "c803d881-c64a-4b6a-948f-b3b8620a3df9",
+    "description": "Do stuff",
+    "deactivated": false,
+    "actionGroups": [],
+    "workspaceId": "8f0e805e-83af-4e52-b463-fbc17ff18bed",
+    "resourceId": "c803d881-c64a-4b6a-948f-b3b8620a3df9",
+    "name": "Methods"
+  }
+}
