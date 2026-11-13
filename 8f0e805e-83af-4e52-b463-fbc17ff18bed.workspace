@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "id": "8f0e805e-83af-4e52-b463-fbc17ff18bed",
+    "platformVersion": "10.0.0",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "id": "8f0e805e-83af-4e52-b463-fbc17ff18bed",
+    "accent": "#5317ce",
+    "route": "local",
+    "description": "My Local Workspace",
+    "cmsEnabled": false,
+    "versioning": true,
+    "workspaceId": "8f0e805e-83af-4e52-b463-fbc17ff18bed",
+    "resourceId": "8f0e805e-83af-4e52-b463-fbc17ff18bed",
+    "name": "Local"
+  }
+}
