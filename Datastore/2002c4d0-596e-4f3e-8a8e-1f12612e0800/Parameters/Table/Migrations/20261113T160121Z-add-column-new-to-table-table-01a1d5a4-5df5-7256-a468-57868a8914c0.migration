@@ -1,0 +1,9 @@
+{
+  "revisionId": "01a1d5a4-5df5-7256-a468-57868a8914c0",
+  "tableName": "01a1d59b-0231-75ed-986f-bf01fd330a48",
+  "created": "2026-11-13T16:01:21Z",
+  "upSql": "ALTER TABLE \u006001a1d59b-0231-75ed-986f-bf01fd330a48\u0060 ADD COLUMN IF NOT EXISTS \u0060new\u0060 TEXT CHARACTER SET utf8mb4 NULL;\n",
+  "upFriendlyName": "Add column \u0060new\u0060 to table \u0060Table\u0060",
+  "downSql": "ALTER TABLE \u006001a1d59b-0231-75ed-986f-bf01fd330a48\u0060 DROP COLUMN IF EXISTS \u0060new\u0060;",
+  "downFriendlyName": "Drop column \u0060new\u0060 from table \u0060Table\u0060"
+}
